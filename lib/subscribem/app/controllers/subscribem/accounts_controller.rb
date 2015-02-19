@@ -14,7 +14,7 @@ module Subscribem
         render status: :ok,
           json: {
               success: true, info: "Your account has been successfully created.", data: {
-              user: @account,
+              account: @account,
               subdomain: @account.subdomain
             }
           }

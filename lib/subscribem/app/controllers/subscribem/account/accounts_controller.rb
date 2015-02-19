@@ -8,7 +8,14 @@ module Subscribem
     def update
       plan_id = account_params.delete(:plan_id)
       if current_account.update_attributes(account_params)
-        flash[:success] = "Account updated successfully."
+        render status: :ok,
+          json: {
+              success: true, info: "Account updated successfully.", data: {
+              account: current_account,
+              subdomain: current_account.subdomain
+            }
+          }
+        # flash[:success] = ""
         if plan_id != current_account.plan_id
           redirect_to plan_account_url(:plan_id => plan_id)
         else

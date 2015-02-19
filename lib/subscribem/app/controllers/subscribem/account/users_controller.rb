@@ -10,8 +10,14 @@ module Subscribem
       account = Subscribem::Account.find_by(:subdomain => request.subdomain)
       user = account.users.create(user_params)
       force_authentication!(user)
-      flash[:success] = "You have signed up successfully."
-      redirect_to root_path
+      render status: :ok,
+          json: {
+              success: true, info: "You have signed up successfully.", data: {
+              user: user,
+            }
+          }
+#       flash[:success] = "You have signed up successfully."
+#       redirect_to root_path
     end
 
     private

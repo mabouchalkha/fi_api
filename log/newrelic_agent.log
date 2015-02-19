@@ -366,3 +366,136 @@
 [02/19/15 07:40:17 -0500 Bahijas-MacBook-Pro.local (2603)] ERROR : Invalid license key, please contact support@newrelic.com
 [02/19/15 07:40:17 -0500 Bahijas-MacBook-Pro.local (2603)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
 [02/19/15 07:51:24 -0500 Bahijas-MacBook-Pro.local (2603)] INFO : Starting Agent shutdown
+[02/19/15 16:48:50 +0000 fiapi-197163 (19638)] INFO : Starting the New Relic agent in "development" environment.
+[02/19/15 16:48:50 +0000 fiapi-197163 (19638)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[02/19/15 16:48:50 +0000 fiapi-197163 (19638)] WARN : No configuration file found. Working directory = /home/action/workspace/fi_api
+[02/19/15 16:48:50 +0000 fiapi-197163 (19638)] WARN : Looked in these locations (based on defaults): /home/action/workspace/fi_api/config/newrelic.yml, /home/action/workspace/fi_api/newrelic.yml, /home/action/workspace/fi_api/config/newrelic.yml, /home/action/workspace/fi_api/newrelic.yml, /home/action/.newrelic/newrelic.yml, /home/action/newrelic.yml
+[02/19/15 16:48:50 +0000 fiapi-197163 (19638)] INFO : Environment: development
+[02/19/15 16:48:50 +0000 fiapi-197163 (19638)] INFO : Dispatcher: webrick
+[02/19/15 16:48:50 +0000 fiapi-197163 (19638)] INFO : Application: development
+[02/19/15 16:48:50 +0000 fiapi-197163 (19638)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[02/19/15 16:48:50 +0000 fiapi-197163 (19638)] INFO : Installing ActiveRecord 4 instrumentation
+[02/19/15 16:48:50 +0000 fiapi-197163 (19638)] INFO : Installing ActiveJob instrumentation
+[02/19/15 16:48:50 +0000 fiapi-197163 (19638)] INFO : Installing Net instrumentation
+[02/19/15 16:48:50 +0000 fiapi-197163 (19638)] INFO : Installing Rails 3+ middleware instrumentation
+[02/19/15 16:48:50 +0000 fiapi-197163 (19638)] INFO : Installing deferred Rack instrumentation
+[02/19/15 16:48:50 +0000 fiapi-197163 (19638)] INFO : Installing Rack::Builder middleware instrumentation
+[02/19/15 16:48:50 +0000 fiapi-197163 (19638)] INFO : Installing Rails 4 Error instrumentation
+[02/19/15 16:48:50 +0000 fiapi-197163 (19638)] INFO : Installing Rails 4 view instrumentation
+[02/19/15 16:48:50 +0000 fiapi-197163 (19638)] INFO : Installing Rails 4 Controller instrumentation
+[02/19/15 16:48:50 +0000 fiapi-197163 (19638)] INFO : Finished instrumentation
+[02/19/15 16:48:51 +0000 fiapi-197163 (19638)] INFO : Doing deferred dependency-detection before Rack startup
+[02/19/15 16:59:30 +0000 fiapi-197163 (19691)] INFO : Starting the New Relic agent in "development" environment.
+[02/19/15 16:59:30 +0000 fiapi-197163 (19691)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[02/19/15 16:59:30 +0000 fiapi-197163 (19691)] WARN : No configuration file found. Working directory = /home/action/workspace/fi_api
+[02/19/15 16:59:30 +0000 fiapi-197163 (19691)] WARN : Looked in these locations (based on defaults): /home/action/workspace/fi_api/config/newrelic.yml, /home/action/workspace/fi_api/newrelic.yml, /home/action/workspace/fi_api/config/newrelic.yml, /home/action/workspace/fi_api/newrelic.yml, /home/action/.newrelic/newrelic.yml, /home/action/newrelic.yml
+[02/19/15 16:59:30 +0000 fiapi-197163 (19691)] INFO : Environment: development
+[02/19/15 16:59:30 +0000 fiapi-197163 (19691)] INFO : Dispatcher: webrick
+[02/19/15 16:59:30 +0000 fiapi-197163 (19691)] INFO : Application: development
+[02/19/15 16:59:30 +0000 fiapi-197163 (19691)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[02/19/15 16:59:30 +0000 fiapi-197163 (19691)] INFO : Installing ActiveRecord 4 instrumentation
+[02/19/15 16:59:30 +0000 fiapi-197163 (19691)] INFO : Installing ActiveJob instrumentation
+[02/19/15 16:59:30 +0000 fiapi-197163 (19691)] INFO : Installing Net instrumentation
+[02/19/15 16:59:30 +0000 fiapi-197163 (19691)] INFO : Installing Rails 3+ middleware instrumentation
+[02/19/15 16:59:30 +0000 fiapi-197163 (19691)] INFO : Installing deferred Rack instrumentation
+[02/19/15 16:59:30 +0000 fiapi-197163 (19691)] INFO : Installing Rack::Builder middleware instrumentation
+[02/19/15 16:59:30 +0000 fiapi-197163 (19691)] INFO : Installing Rails 4 Error instrumentation
+[02/19/15 16:59:30 +0000 fiapi-197163 (19691)] INFO : Installing Rails 4 view instrumentation
+[02/19/15 16:59:30 +0000 fiapi-197163 (19691)] INFO : Installing Rails 4 Controller instrumentation
+[02/19/15 16:59:30 +0000 fiapi-197163 (19691)] INFO : Finished instrumentation
+[02/19/15 16:59:31 +0000 fiapi-197163 (19691)] INFO : Doing deferred dependency-detection before Rack startup
+[02/19/15 17:09:31 +0000 fiapi-197163 (19744)] INFO : Starting the New Relic agent in "development" environment.
+[02/19/15 17:09:31 +0000 fiapi-197163 (19744)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[02/19/15 17:09:31 +0000 fiapi-197163 (19744)] WARN : No configuration file found. Working directory = /home/action/workspace/fi_api
+[02/19/15 17:09:31 +0000 fiapi-197163 (19744)] WARN : Looked in these locations (based on defaults): /home/action/workspace/fi_api/config/newrelic.yml, /home/action/workspace/fi_api/newrelic.yml, /home/action/workspace/fi_api/config/newrelic.yml, /home/action/workspace/fi_api/newrelic.yml, /home/action/.newrelic/newrelic.yml, /home/action/newrelic.yml
+[02/19/15 17:09:31 +0000 fiapi-197163 (19744)] INFO : Environment: development
+[02/19/15 17:09:31 +0000 fiapi-197163 (19744)] INFO : Dispatcher: webrick
+[02/19/15 17:09:31 +0000 fiapi-197163 (19744)] INFO : Application: development
+[02/19/15 17:09:31 +0000 fiapi-197163 (19744)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[02/19/15 17:09:31 +0000 fiapi-197163 (19744)] INFO : Installing ActiveRecord 4 instrumentation
+[02/19/15 17:09:31 +0000 fiapi-197163 (19744)] INFO : Installing ActiveJob instrumentation
+[02/19/15 17:09:31 +0000 fiapi-197163 (19744)] INFO : Installing Net instrumentation
+[02/19/15 17:09:31 +0000 fiapi-197163 (19744)] INFO : Installing Rails 3+ middleware instrumentation
+[02/19/15 17:09:31 +0000 fiapi-197163 (19744)] INFO : Installing deferred Rack instrumentation
+[02/19/15 17:09:31 +0000 fiapi-197163 (19744)] INFO : Installing Rack::Builder middleware instrumentation
+[02/19/15 17:09:31 +0000 fiapi-197163 (19744)] INFO : Installing Rails 4 Error instrumentation
+[02/19/15 17:09:31 +0000 fiapi-197163 (19744)] INFO : Installing Rails 4 view instrumentation
+[02/19/15 17:09:31 +0000 fiapi-197163 (19744)] INFO : Installing Rails 4 Controller instrumentation
+[02/19/15 17:09:31 +0000 fiapi-197163 (19744)] INFO : Finished instrumentation
+[02/19/15 17:09:32 +0000 fiapi-197163 (19744)] INFO : Doing deferred dependency-detection before Rack startup
+[02/19/15 17:47:18 +0000 fiapi-197163 (19770)] INFO : Starting the New Relic agent in "development" environment.
+[02/19/15 17:47:18 +0000 fiapi-197163 (19770)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[02/19/15 17:47:18 +0000 fiapi-197163 (19770)] WARN : No configuration file found. Working directory = /home/action/workspace/fi_api
+[02/19/15 17:47:18 +0000 fiapi-197163 (19770)] WARN : Looked in these locations (based on defaults): /home/action/workspace/fi_api/config/newrelic.yml, /home/action/workspace/fi_api/newrelic.yml, /home/action/workspace/fi_api/config/newrelic.yml, /home/action/workspace/fi_api/newrelic.yml, /home/action/.newrelic/newrelic.yml, /home/action/newrelic.yml
+[02/19/15 17:47:18 +0000 fiapi-197163 (19770)] INFO : Environment: development
+[02/19/15 17:47:18 +0000 fiapi-197163 (19770)] INFO : Dispatcher: webrick
+[02/19/15 17:47:18 +0000 fiapi-197163 (19770)] INFO : Application: development
+[02/19/15 17:47:18 +0000 fiapi-197163 (19770)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[02/19/15 17:47:18 +0000 fiapi-197163 (19770)] INFO : Installing ActiveRecord 4 instrumentation
+[02/19/15 17:47:18 +0000 fiapi-197163 (19770)] INFO : Installing ActiveJob instrumentation
+[02/19/15 17:47:18 +0000 fiapi-197163 (19770)] INFO : Installing Net instrumentation
+[02/19/15 17:47:18 +0000 fiapi-197163 (19770)] INFO : Installing Rails 3+ middleware instrumentation
+[02/19/15 17:47:18 +0000 fiapi-197163 (19770)] INFO : Installing deferred Rack instrumentation
+[02/19/15 17:47:18 +0000 fiapi-197163 (19770)] INFO : Installing Rack::Builder middleware instrumentation
+[02/19/15 17:47:18 +0000 fiapi-197163 (19770)] INFO : Installing Rails 4 Error instrumentation
+[02/19/15 17:47:18 +0000 fiapi-197163 (19770)] INFO : Installing Rails 4 view instrumentation
+[02/19/15 17:47:18 +0000 fiapi-197163 (19770)] INFO : Installing Rails 4 Controller instrumentation
+[02/19/15 17:47:18 +0000 fiapi-197163 (19770)] INFO : Finished instrumentation
+[02/19/15 17:47:19 +0000 fiapi-197163 (19770)] INFO : Doing deferred dependency-detection before Rack startup
+[02/19/15 17:52:21 +0000 fiapi-197163 (19811)] INFO : Starting the New Relic agent in "development" environment.
+[02/19/15 17:52:21 +0000 fiapi-197163 (19811)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[02/19/15 17:52:21 +0000 fiapi-197163 (19811)] WARN : No configuration file found. Working directory = /home/action/workspace/fi_api
+[02/19/15 17:52:21 +0000 fiapi-197163 (19811)] WARN : Looked in these locations (based on defaults): /home/action/workspace/fi_api/config/newrelic.yml, /home/action/workspace/fi_api/newrelic.yml, /home/action/workspace/fi_api/config/newrelic.yml, /home/action/workspace/fi_api/newrelic.yml, /home/action/.newrelic/newrelic.yml, /home/action/newrelic.yml
+[02/19/15 17:52:21 +0000 fiapi-197163 (19811)] INFO : Environment: development
+[02/19/15 17:52:21 +0000 fiapi-197163 (19811)] INFO : Dispatcher: webrick
+[02/19/15 17:52:21 +0000 fiapi-197163 (19811)] INFO : Application: development
+[02/19/15 17:52:21 +0000 fiapi-197163 (19811)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[02/19/15 17:52:21 +0000 fiapi-197163 (19811)] INFO : Installing ActiveRecord 4 instrumentation
+[02/19/15 17:52:21 +0000 fiapi-197163 (19811)] INFO : Installing ActiveJob instrumentation
+[02/19/15 17:52:21 +0000 fiapi-197163 (19811)] INFO : Installing Net instrumentation
+[02/19/15 17:52:21 +0000 fiapi-197163 (19811)] INFO : Installing Rails 3+ middleware instrumentation
+[02/19/15 17:52:21 +0000 fiapi-197163 (19811)] INFO : Installing deferred Rack instrumentation
+[02/19/15 17:52:21 +0000 fiapi-197163 (19811)] INFO : Installing Rack::Builder middleware instrumentation
+[02/19/15 17:52:21 +0000 fiapi-197163 (19811)] INFO : Installing Rails 4 Error instrumentation
+[02/19/15 17:52:21 +0000 fiapi-197163 (19811)] INFO : Installing Rails 4 view instrumentation
+[02/19/15 17:52:21 +0000 fiapi-197163 (19811)] INFO : Installing Rails 4 Controller instrumentation
+[02/19/15 17:52:21 +0000 fiapi-197163 (19811)] INFO : Finished instrumentation
+[02/19/15 17:52:22 +0000 fiapi-197163 (19811)] INFO : Doing deferred dependency-detection before Rack startup
+[02/19/15 17:55:30 +0000 fiapi-197163 (19843)] INFO : Starting the New Relic agent in "development" environment.
+[02/19/15 17:55:30 +0000 fiapi-197163 (19843)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[02/19/15 17:55:30 +0000 fiapi-197163 (19843)] WARN : No configuration file found. Working directory = /home/action/workspace/fi_api
+[02/19/15 17:55:30 +0000 fiapi-197163 (19843)] WARN : Looked in these locations (based on defaults): /home/action/workspace/fi_api/config/newrelic.yml, /home/action/workspace/fi_api/newrelic.yml, /home/action/workspace/fi_api/config/newrelic.yml, /home/action/workspace/fi_api/newrelic.yml, /home/action/.newrelic/newrelic.yml, /home/action/newrelic.yml
+[02/19/15 17:55:30 +0000 fiapi-197163 (19843)] INFO : Environment: development
+[02/19/15 17:55:30 +0000 fiapi-197163 (19843)] INFO : Dispatcher: webrick
+[02/19/15 17:55:30 +0000 fiapi-197163 (19843)] INFO : Application: development
+[02/19/15 17:55:30 +0000 fiapi-197163 (19843)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[02/19/15 17:55:31 +0000 fiapi-197163 (19843)] INFO : Installing ActiveRecord 4 instrumentation
+[02/19/15 17:55:31 +0000 fiapi-197163 (19843)] INFO : Installing ActiveJob instrumentation
+[02/19/15 17:55:31 +0000 fiapi-197163 (19843)] INFO : Installing Net instrumentation
+[02/19/15 17:55:31 +0000 fiapi-197163 (19843)] INFO : Installing Rails 3+ middleware instrumentation
+[02/19/15 17:55:31 +0000 fiapi-197163 (19843)] INFO : Installing deferred Rack instrumentation
+[02/19/15 17:55:31 +0000 fiapi-197163 (19843)] INFO : Installing Rack::Builder middleware instrumentation
+[02/19/15 17:55:31 +0000 fiapi-197163 (19843)] INFO : Installing Rails 4 Error instrumentation
+[02/19/15 17:55:31 +0000 fiapi-197163 (19843)] INFO : Installing Rails 4 view instrumentation
+[02/19/15 17:55:31 +0000 fiapi-197163 (19843)] INFO : Installing Rails 4 Controller instrumentation
+[02/19/15 17:55:31 +0000 fiapi-197163 (19843)] INFO : Finished instrumentation
+[02/19/15 17:55:31 +0000 fiapi-197163 (19843)] INFO : Doing deferred dependency-detection before Rack startup
+[02/19/15 17:56:56 +0000 fiapi-197163 (19851)] INFO : Starting the New Relic agent in "development" environment.
+[02/19/15 17:56:56 +0000 fiapi-197163 (19851)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[02/19/15 17:56:56 +0000 fiapi-197163 (19851)] WARN : No configuration file found. Working directory = /home/action/workspace/fi_api
+[02/19/15 17:56:56 +0000 fiapi-197163 (19851)] WARN : Looked in these locations (based on defaults): /home/action/workspace/fi_api/config/newrelic.yml, /home/action/workspace/fi_api/newrelic.yml, /home/action/workspace/fi_api/config/newrelic.yml, /home/action/workspace/fi_api/newrelic.yml, /home/action/.newrelic/newrelic.yml, /home/action/newrelic.yml
+[02/19/15 17:56:56 +0000 fiapi-197163 (19851)] INFO : Environment: development
+[02/19/15 17:56:56 +0000 fiapi-197163 (19851)] INFO : Dispatcher: webrick
+[02/19/15 17:56:56 +0000 fiapi-197163 (19851)] INFO : Application: development
+[02/19/15 17:56:56 +0000 fiapi-197163 (19851)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[02/19/15 17:56:56 +0000 fiapi-197163 (19851)] INFO : Installing ActiveRecord 4 instrumentation
+[02/19/15 17:56:56 +0000 fiapi-197163 (19851)] INFO : Installing ActiveJob instrumentation
+[02/19/15 17:56:56 +0000 fiapi-197163 (19851)] INFO : Installing Net instrumentation
+[02/19/15 17:56:56 +0000 fiapi-197163 (19851)] INFO : Installing Rails 3+ middleware instrumentation
+[02/19/15 17:56:56 +0000 fiapi-197163 (19851)] INFO : Installing deferred Rack instrumentation
+[02/19/15 17:56:56 +0000 fiapi-197163 (19851)] INFO : Installing Rack::Builder middleware instrumentation
+[02/19/15 17:56:56 +0000 fiapi-197163 (19851)] INFO : Installing Rails 4 Error instrumentation
+[02/19/15 17:56:56 +0000 fiapi-197163 (19851)] INFO : Installing Rails 4 view instrumentation
+[02/19/15 17:56:56 +0000 fiapi-197163 (19851)] INFO : Installing Rails 4 Controller instrumentation
+[02/19/15 17:56:56 +0000 fiapi-197163 (19851)] INFO : Finished instrumentation
+[02/19/15 17:56:57 +0000 fiapi-197163 (19851)] INFO : Doing deferred dependency-detection before Rack startup

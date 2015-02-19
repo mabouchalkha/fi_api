@@ -21,8 +21,9 @@
 
   def authenticate_user!
     unless user_signed_in?
-      flash[:info] = "Please sign in."
-      redirect_to '/sign_in'
+      render status: :unprocessable_entity, json: { success: false, info: "Please sign in.", data: { } }
+#       flash[:info] = "Please sign in."
+#       redirect_to '/sign_in'
     end
   end
 

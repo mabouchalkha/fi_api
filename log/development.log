@@ -47766,3 +47766,45 @@ Can't verify CSRF token authenticity
   [1m[35m (1.7ms)[0m  commit transaction
   [1m[36mSubscribem::Account Exists (0.3ms)[0m  [1mSELECT  1 AS one FROM "subscribem_accounts" WHERE ("subscribem_accounts"."subdomain" = 'rails' AND "subscribem_accounts"."id" != 1) LIMIT 1[0m
 Completed 200 OK in 340ms (Views: 0.7ms | ActiveRecord: 65.9ms)
+DEPRECATION WARNING: Devise.token_authentication_key= is deprecated and has no effect. (called from token_authentication_key= at (eval):6)
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.2ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+  [1m[36m (0.2ms)[0m  [1m            SELECT sql
+            FROM sqlite_master
+            WHERE name='index_subscribem_accounts_on_subdomain' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_subscribem_accounts_on_subdomain' AND type='index'
+[0m
+  [1m[35m (0.2ms)[0m              SELECT sql
+            FROM sqlite_master
+            WHERE name='index_users_on_authentication_token' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_users_on_authentication_token' AND type='index'
+
+  [1m[36m (0.2ms)[0m  [1m            SELECT sql
+            FROM sqlite_master
+            WHERE name='index_users_on_reset_password_token' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_users_on_reset_password_token' AND type='index'
+[0m
+  [1m[35m (0.2ms)[0m              SELECT sql
+            FROM sqlite_master
+            WHERE name='index_users_on_email' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_users_on_email' AND type='index'
+
+DEPRECATION WARNING: Devise.token_authentication_key= is deprecated and has no effect. (called from token_authentication_key= at (eval):6)
+DEPRECATION WARNING: Devise.token_authentication_key= is deprecated and has no effect. (called from token_authentication_key= at (eval):6)
+DEPRECATION WARNING: Devise.token_authentication_key= is deprecated and has no effect. (called from token_authentication_key= at (eval):6)
+DEPRECATION WARNING: Devise.token_authentication_key= is deprecated and has no effect. (called from token_authentication_key= at (eval):6)
+DEPRECATION WARNING: Devise.token_authentication_key= is deprecated and has no effect. (called from token_authentication_key= at (eval):6)
+DEPRECATION WARNING: Devise.token_authentication_key= is deprecated and has no effect. (called from token_authentication_key= at (eval):6)
+DEPRECATION WARNING: Devise.token_authentication_key= is deprecated and has no effect. (called from token_authentication_key= at (eval):6)
