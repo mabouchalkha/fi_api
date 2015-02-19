@@ -1,0 +1,368 @@
+# Logfile created on 2014-12-24 10:40:06 -0500 by logger.rb/44203
+[12/24/14 10:40:06 -0500 Bahijas-MacBook-Pro.local (55442)] INFO : Starting the New Relic agent in "development" environment.
+[12/24/14 10:40:06 -0500 Bahijas-MacBook-Pro.local (55442)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[12/24/14 10:40:06 -0500 Bahijas-MacBook-Pro.local (55442)] WARN : No configuration file found. Working directory = /Users/mohamedamine/Desktop/work/foodinspectors/server
+[12/24/14 10:40:06 -0500 Bahijas-MacBook-Pro.local (55442)] WARN : Looked in these locations (based on defaults): /Users/mohamedamine/Desktop/work/foodinspectors/server/config/newrelic.yml, /Users/mohamedamine/Desktop/work/foodinspectors/server/newrelic.yml, /Users/mohamedamine/Desktop/work/foodinspectors/server/config/newrelic.yml, /Users/mohamedamine/Desktop/work/foodinspectors/server/newrelic.yml, /Users/mohamedamine/.newrelic/newrelic.yml, /Users/mohamedamine/newrelic.yml
+[12/24/14 10:40:06 -0500 Bahijas-MacBook-Pro.local (55442)] INFO : Environment: development
+[12/24/14 10:40:06 -0500 Bahijas-MacBook-Pro.local (55442)] INFO : Dispatcher: webrick
+[12/24/14 10:40:06 -0500 Bahijas-MacBook-Pro.local (55442)] INFO : Application: development
+[12/24/14 10:40:06 -0500 Bahijas-MacBook-Pro.local (55442)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[12/24/14 10:40:06 -0500 Bahijas-MacBook-Pro.local (55442)] INFO : Installing ActiveRecord 4 instrumentation
+[12/24/14 10:40:06 -0500 Bahijas-MacBook-Pro.local (55442)] INFO : Installing Net instrumentation
+[12/24/14 10:40:06 -0500 Bahijas-MacBook-Pro.local (55442)] INFO : Installing deferred Rack instrumentation
+[12/24/14 10:40:06 -0500 Bahijas-MacBook-Pro.local (55442)] INFO : Installing Rack::Builder middleware instrumentation
+[12/24/14 10:40:06 -0500 Bahijas-MacBook-Pro.local (55442)] INFO : Installing Rails 3+ middleware instrumentation
+[12/24/14 10:40:06 -0500 Bahijas-MacBook-Pro.local (55442)] INFO : Installing Rails 4 Controller instrumentation
+[12/24/14 10:40:06 -0500 Bahijas-MacBook-Pro.local (55442)] INFO : Installing Rails 4 view instrumentation
+[12/24/14 10:40:06 -0500 Bahijas-MacBook-Pro.local (55442)] INFO : Installing Rails 4 Error instrumentation
+[12/24/14 10:40:06 -0500 Bahijas-MacBook-Pro.local (55442)] INFO : Finished instrumentation
+[12/24/14 10:40:08 -0500 Bahijas-MacBook-Pro.local (55442)] INFO : Doing deferred dependency-detection before Rack startup
+[12/24/14 10:41:25 -0500 Bahijas-MacBook-Pro.local (55442)] ERROR : Unknown license key
+[12/24/14 10:41:25 -0500 Bahijas-MacBook-Pro.local (55442)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[12/24/14 10:44:02 -0500 Bahijas-MacBook-Pro.local (55442)] INFO : Starting Agent shutdown
+[12/24/14 10:44:11 -0500 Bahijas-MacBook-Pro.local (55752)] INFO : Starting the New Relic agent in "development" environment.
+[12/24/14 10:44:11 -0500 Bahijas-MacBook-Pro.local (55752)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[12/24/14 10:44:11 -0500 Bahijas-MacBook-Pro.local (55752)] WARN : No configuration file found. Working directory = /Users/mohamedamine/Desktop/work/foodinspectors/server
+[12/24/14 10:44:11 -0500 Bahijas-MacBook-Pro.local (55752)] WARN : Looked in these locations (based on defaults): /Users/mohamedamine/Desktop/work/foodinspectors/server/config/newrelic.yml, /Users/mohamedamine/Desktop/work/foodinspectors/server/newrelic.yml, /Users/mohamedamine/Desktop/work/foodinspectors/server/config/newrelic.yml, /Users/mohamedamine/Desktop/work/foodinspectors/server/newrelic.yml, /Users/mohamedamine/.newrelic/newrelic.yml, /Users/mohamedamine/newrelic.yml
+[12/24/14 10:44:11 -0500 Bahijas-MacBook-Pro.local (55752)] INFO : Environment: development
+[12/24/14 10:44:11 -0500 Bahijas-MacBook-Pro.local (55752)] INFO : Dispatcher: webrick
+[12/24/14 10:44:11 -0500 Bahijas-MacBook-Pro.local (55752)] INFO : Application: development
+[12/24/14 10:44:11 -0500 Bahijas-MacBook-Pro.local (55752)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[12/24/14 10:44:11 -0500 Bahijas-MacBook-Pro.local (55752)] INFO : Installing ActiveRecord 4 instrumentation
+[12/24/14 10:44:11 -0500 Bahijas-MacBook-Pro.local (55752)] INFO : Installing Net instrumentation
+[12/24/14 10:44:11 -0500 Bahijas-MacBook-Pro.local (55752)] INFO : Installing deferred Rack instrumentation
+[12/24/14 10:44:11 -0500 Bahijas-MacBook-Pro.local (55752)] INFO : Installing Rack::Builder middleware instrumentation
+[12/24/14 10:44:11 -0500 Bahijas-MacBook-Pro.local (55752)] INFO : Installing Rails 3+ middleware instrumentation
+[12/24/14 10:44:11 -0500 Bahijas-MacBook-Pro.local (55752)] INFO : Installing Rails 4 Controller instrumentation
+[12/24/14 10:44:11 -0500 Bahijas-MacBook-Pro.local (55752)] INFO : Installing Rails 4 view instrumentation
+[12/24/14 10:44:11 -0500 Bahijas-MacBook-Pro.local (55752)] INFO : Installing Rails 4 Error instrumentation
+[12/24/14 10:44:11 -0500 Bahijas-MacBook-Pro.local (55752)] INFO : Finished instrumentation
+[12/24/14 10:44:12 -0500 Bahijas-MacBook-Pro.local (55752)] INFO : Doing deferred dependency-detection before Rack startup
+[12/24/14 10:44:17 -0500 Bahijas-MacBook-Pro.local (55752)] ERROR : Unknown license key
+[12/24/14 10:44:17 -0500 Bahijas-MacBook-Pro.local (55752)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[12/24/14 10:46:09 -0500 Bahijas-MacBook-Pro.local (55752)] INFO : Starting Agent shutdown
+[12/24/14 10:46:28 -0500 Bahijas-MacBook-Pro.local (55957)] INFO : Starting the New Relic agent in "development" environment.
+[12/24/14 10:46:28 -0500 Bahijas-MacBook-Pro.local (55957)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[12/24/14 10:46:28 -0500 Bahijas-MacBook-Pro.local (55957)] WARN : No configuration file found. Working directory = /Users/mohamedamine/Desktop/work/foodinspectors/server
+[12/24/14 10:46:28 -0500 Bahijas-MacBook-Pro.local (55957)] WARN : Looked in these locations (based on defaults): /Users/mohamedamine/Desktop/work/foodinspectors/server/config/newrelic.yml, /Users/mohamedamine/Desktop/work/foodinspectors/server/newrelic.yml, /Users/mohamedamine/Desktop/work/foodinspectors/server/config/newrelic.yml, /Users/mohamedamine/Desktop/work/foodinspectors/server/newrelic.yml, /Users/mohamedamine/.newrelic/newrelic.yml, /Users/mohamedamine/newrelic.yml
+[12/24/14 10:46:28 -0500 Bahijas-MacBook-Pro.local (55957)] INFO : Environment: development
+[12/24/14 10:46:28 -0500 Bahijas-MacBook-Pro.local (55957)] INFO : Dispatcher: webrick
+[12/24/14 10:46:28 -0500 Bahijas-MacBook-Pro.local (55957)] INFO : Application: development
+[12/24/14 10:46:28 -0500 Bahijas-MacBook-Pro.local (55957)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[12/24/14 10:46:28 -0500 Bahijas-MacBook-Pro.local (55957)] INFO : Installing ActiveRecord 4 instrumentation
+[12/24/14 10:46:28 -0500 Bahijas-MacBook-Pro.local (55957)] INFO : Installing Net instrumentation
+[12/24/14 10:46:28 -0500 Bahijas-MacBook-Pro.local (55957)] INFO : Installing deferred Rack instrumentation
+[12/24/14 10:46:28 -0500 Bahijas-MacBook-Pro.local (55957)] INFO : Installing Rack::Builder middleware instrumentation
+[12/24/14 10:46:28 -0500 Bahijas-MacBook-Pro.local (55957)] INFO : Installing Rails 3+ middleware instrumentation
+[12/24/14 10:46:28 -0500 Bahijas-MacBook-Pro.local (55957)] INFO : Installing Rails 4 Controller instrumentation
+[12/24/14 10:46:28 -0500 Bahijas-MacBook-Pro.local (55957)] INFO : Installing Rails 4 view instrumentation
+[12/24/14 10:46:28 -0500 Bahijas-MacBook-Pro.local (55957)] INFO : Installing Rails 4 Error instrumentation
+[12/24/14 10:46:28 -0500 Bahijas-MacBook-Pro.local (55957)] INFO : Finished instrumentation
+[12/24/14 10:46:30 -0500 Bahijas-MacBook-Pro.local (55957)] INFO : Doing deferred dependency-detection before Rack startup
+[12/24/14 10:46:45 -0500 Bahijas-MacBook-Pro.local (56005)] INFO : Starting the New Relic agent in "development" environment.
+[12/24/14 10:46:45 -0500 Bahijas-MacBook-Pro.local (56005)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[12/24/14 10:46:45 -0500 Bahijas-MacBook-Pro.local (56005)] WARN : No configuration file found. Working directory = /Users/mohamedamine/Desktop/work/foodinspectors/server
+[12/24/14 10:46:45 -0500 Bahijas-MacBook-Pro.local (56005)] WARN : Looked in these locations (based on defaults): /Users/mohamedamine/Desktop/work/foodinspectors/server/config/newrelic.yml, /Users/mohamedamine/Desktop/work/foodinspectors/server/newrelic.yml, /Users/mohamedamine/Desktop/work/foodinspectors/server/config/newrelic.yml, /Users/mohamedamine/Desktop/work/foodinspectors/server/newrelic.yml, /Users/mohamedamine/.newrelic/newrelic.yml, /Users/mohamedamine/newrelic.yml
+[12/24/14 10:46:45 -0500 Bahijas-MacBook-Pro.local (56005)] INFO : Environment: development
+[12/24/14 10:46:45 -0500 Bahijas-MacBook-Pro.local (56005)] INFO : Dispatcher: webrick
+[12/24/14 10:46:45 -0500 Bahijas-MacBook-Pro.local (56005)] INFO : Application: development
+[12/24/14 10:46:45 -0500 Bahijas-MacBook-Pro.local (56005)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[12/24/14 10:46:45 -0500 Bahijas-MacBook-Pro.local (56005)] INFO : Installing ActiveRecord 4 instrumentation
+[12/24/14 10:46:45 -0500 Bahijas-MacBook-Pro.local (56005)] INFO : Installing Net instrumentation
+[12/24/14 10:46:45 -0500 Bahijas-MacBook-Pro.local (56005)] INFO : Installing deferred Rack instrumentation
+[12/24/14 10:46:45 -0500 Bahijas-MacBook-Pro.local (56005)] INFO : Installing Rack::Builder middleware instrumentation
+[12/24/14 10:46:45 -0500 Bahijas-MacBook-Pro.local (56005)] INFO : Installing Rails 3+ middleware instrumentation
+[12/24/14 10:46:45 -0500 Bahijas-MacBook-Pro.local (56005)] INFO : Installing Rails 4 Controller instrumentation
+[12/24/14 10:46:45 -0500 Bahijas-MacBook-Pro.local (56005)] INFO : Installing Rails 4 view instrumentation
+[12/24/14 10:46:45 -0500 Bahijas-MacBook-Pro.local (56005)] INFO : Installing Rails 4 Error instrumentation
+[12/24/14 10:46:45 -0500 Bahijas-MacBook-Pro.local (56005)] INFO : Finished instrumentation
+[12/24/14 10:46:46 -0500 Bahijas-MacBook-Pro.local (56005)] INFO : Doing deferred dependency-detection before Rack startup
+[12/24/14 10:47:11 -0500 Bahijas-MacBook-Pro.local (56005)] ERROR : Unknown license key
+[12/24/14 10:47:12 -0500 Bahijas-MacBook-Pro.local (56005)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[12/24/14 11:01:22 -0500 Bahijas-MacBook-Pro.local (56005)] INFO : Starting Agent shutdown
+[12/24/14 11:01:42 -0500 Bahijas-MacBook-Pro.local (57147)] INFO : Starting the New Relic agent in "development" environment.
+[12/24/14 11:01:42 -0500 Bahijas-MacBook-Pro.local (57147)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[12/24/14 11:01:42 -0500 Bahijas-MacBook-Pro.local (57147)] WARN : No configuration file found. Working directory = /Users/mohamedamine/Desktop/work/foodinspectors/server
+[12/24/14 11:01:42 -0500 Bahijas-MacBook-Pro.local (57147)] WARN : Looked in these locations (based on defaults): /Users/mohamedamine/Desktop/work/foodinspectors/server/config/newrelic.yml, /Users/mohamedamine/Desktop/work/foodinspectors/server/newrelic.yml, /Users/mohamedamine/Desktop/work/foodinspectors/server/config/newrelic.yml, /Users/mohamedamine/Desktop/work/foodinspectors/server/newrelic.yml, /Users/mohamedamine/.newrelic/newrelic.yml, /Users/mohamedamine/newrelic.yml
+[12/24/14 11:01:42 -0500 Bahijas-MacBook-Pro.local (57147)] INFO : Environment: development
+[12/24/14 11:01:42 -0500 Bahijas-MacBook-Pro.local (57147)] INFO : Dispatcher: webrick
+[12/24/14 11:01:42 -0500 Bahijas-MacBook-Pro.local (57147)] INFO : Application: development
+[12/24/14 11:01:42 -0500 Bahijas-MacBook-Pro.local (57147)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[12/24/14 11:01:42 -0500 Bahijas-MacBook-Pro.local (57147)] INFO : Installing ActiveRecord 4 instrumentation
+[12/24/14 11:01:42 -0500 Bahijas-MacBook-Pro.local (57147)] INFO : Installing Net instrumentation
+[12/24/14 11:01:42 -0500 Bahijas-MacBook-Pro.local (57147)] INFO : Installing deferred Rack instrumentation
+[12/24/14 11:01:42 -0500 Bahijas-MacBook-Pro.local (57147)] INFO : Installing Rack::Builder middleware instrumentation
+[12/24/14 11:01:42 -0500 Bahijas-MacBook-Pro.local (57147)] INFO : Installing Rails 3+ middleware instrumentation
+[12/24/14 11:01:42 -0500 Bahijas-MacBook-Pro.local (57147)] INFO : Installing Rails 4 Controller instrumentation
+[12/24/14 11:01:42 -0500 Bahijas-MacBook-Pro.local (57147)] INFO : Installing Rails 4 view instrumentation
+[12/24/14 11:01:42 -0500 Bahijas-MacBook-Pro.local (57147)] INFO : Installing Rails 4 Error instrumentation
+[12/24/14 11:01:42 -0500 Bahijas-MacBook-Pro.local (57147)] INFO : Finished instrumentation
+[12/24/14 11:01:44 -0500 Bahijas-MacBook-Pro.local (57147)] INFO : Doing deferred dependency-detection before Rack startup
+[12/24/14 11:07:28 -0500 Bahijas-MacBook-Pro.local (57147)] ERROR : Unknown license key
+[12/24/14 11:07:28 -0500 Bahijas-MacBook-Pro.local (57147)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[12/24/14 11:15:25 -0500 Bahijas-MacBook-Pro.local (57147)] INFO : Starting Agent shutdown
+[12/24/14 17:05:12 -0500 Bahijas-MacBook-Pro.local (60250)] INFO : Starting the New Relic agent in "development" environment.
+[12/24/14 17:05:12 -0500 Bahijas-MacBook-Pro.local (60250)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[12/24/14 17:05:12 -0500 Bahijas-MacBook-Pro.local (60250)] WARN : No configuration file found. Working directory = /Users/mohamedamine/Desktop/work/foodinspectors/server
+[12/24/14 17:05:12 -0500 Bahijas-MacBook-Pro.local (60250)] WARN : Looked in these locations (based on defaults): /Users/mohamedamine/Desktop/work/foodinspectors/server/config/newrelic.yml, /Users/mohamedamine/Desktop/work/foodinspectors/server/newrelic.yml, /Users/mohamedamine/Desktop/work/foodinspectors/server/config/newrelic.yml, /Users/mohamedamine/Desktop/work/foodinspectors/server/newrelic.yml, /Users/mohamedamine/.newrelic/newrelic.yml, /Users/mohamedamine/newrelic.yml
+[12/24/14 17:05:12 -0500 Bahijas-MacBook-Pro.local (60250)] INFO : Environment: development
+[12/24/14 17:05:12 -0500 Bahijas-MacBook-Pro.local (60250)] INFO : Dispatcher: webrick
+[12/24/14 17:05:12 -0500 Bahijas-MacBook-Pro.local (60250)] INFO : Application: development
+[12/24/14 17:05:12 -0500 Bahijas-MacBook-Pro.local (60250)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[12/24/14 17:05:12 -0500 Bahijas-MacBook-Pro.local (60250)] INFO : Installing ActiveRecord 4 instrumentation
+[12/24/14 17:05:12 -0500 Bahijas-MacBook-Pro.local (60250)] INFO : Installing Net instrumentation
+[12/24/14 17:05:12 -0500 Bahijas-MacBook-Pro.local (60250)] INFO : Installing deferred Rack instrumentation
+[12/24/14 17:05:12 -0500 Bahijas-MacBook-Pro.local (60250)] INFO : Installing Rack::Builder middleware instrumentation
+[12/24/14 17:05:12 -0500 Bahijas-MacBook-Pro.local (60250)] INFO : Installing Rails 3+ middleware instrumentation
+[12/24/14 17:05:12 -0500 Bahijas-MacBook-Pro.local (60250)] INFO : Installing Rails 4 Controller instrumentation
+[12/24/14 17:05:12 -0500 Bahijas-MacBook-Pro.local (60250)] INFO : Installing Rails 4 view instrumentation
+[12/24/14 17:05:12 -0500 Bahijas-MacBook-Pro.local (60250)] INFO : Installing Rails 4 Error instrumentation
+[12/24/14 17:05:12 -0500 Bahijas-MacBook-Pro.local (60250)] INFO : Finished instrumentation
+[12/24/14 17:05:15 -0500 Bahijas-MacBook-Pro.local (60250)] INFO : Doing deferred dependency-detection before Rack startup
+[12/24/14 17:05:27 -0500 Bahijas-MacBook-Pro.local (60250)] ERROR : Unknown license key
+[12/24/14 17:05:27 -0500 Bahijas-MacBook-Pro.local (60250)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[12/24/14 18:38:13 -0500 Bahijas-MacBook-Pro.local (60250)] INFO : Starting Agent shutdown
+[12/26/14 10:20:09 -0500 Bahijas-MacBook-Pro.local (2484)] INFO : Starting the New Relic agent in "development" environment.
+[12/26/14 10:20:10 -0500 Bahijas-MacBook-Pro.local (2484)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[12/26/14 10:20:10 -0500 Bahijas-MacBook-Pro.local (2484)] WARN : No configuration file found. Working directory = /Users/mohamedamine/Desktop/work/foodinspectors/server
+[12/26/14 10:20:10 -0500 Bahijas-MacBook-Pro.local (2484)] WARN : Looked in these locations (based on defaults): /Users/mohamedamine/Desktop/work/foodinspectors/server/config/newrelic.yml, /Users/mohamedamine/Desktop/work/foodinspectors/server/newrelic.yml, /Users/mohamedamine/Desktop/work/foodinspectors/server/config/newrelic.yml, /Users/mohamedamine/Desktop/work/foodinspectors/server/newrelic.yml, /Users/mohamedamine/.newrelic/newrelic.yml, /Users/mohamedamine/newrelic.yml
+[12/26/14 10:20:10 -0500 Bahijas-MacBook-Pro.local (2484)] INFO : Environment: development
+[12/26/14 10:20:10 -0500 Bahijas-MacBook-Pro.local (2484)] INFO : Dispatcher: webrick
+[12/26/14 10:20:10 -0500 Bahijas-MacBook-Pro.local (2484)] INFO : Application: development
+[12/26/14 10:20:10 -0500 Bahijas-MacBook-Pro.local (2484)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[12/26/14 10:20:10 -0500 Bahijas-MacBook-Pro.local (2484)] INFO : Installing ActiveRecord 4 instrumentation
+[12/26/14 10:20:10 -0500 Bahijas-MacBook-Pro.local (2484)] INFO : Installing Net instrumentation
+[12/26/14 10:20:10 -0500 Bahijas-MacBook-Pro.local (2484)] INFO : Installing deferred Rack instrumentation
+[12/26/14 10:20:10 -0500 Bahijas-MacBook-Pro.local (2484)] INFO : Installing Rack::Builder middleware instrumentation
+[12/26/14 10:20:10 -0500 Bahijas-MacBook-Pro.local (2484)] INFO : Installing Rails 3+ middleware instrumentation
+[12/26/14 10:20:10 -0500 Bahijas-MacBook-Pro.local (2484)] INFO : Installing Rails 4 Controller instrumentation
+[12/26/14 10:20:10 -0500 Bahijas-MacBook-Pro.local (2484)] INFO : Installing Rails 4 view instrumentation
+[12/26/14 10:20:10 -0500 Bahijas-MacBook-Pro.local (2484)] INFO : Installing Rails 4 Error instrumentation
+[12/26/14 10:20:10 -0500 Bahijas-MacBook-Pro.local (2484)] INFO : Finished instrumentation
+[12/26/14 10:20:15 -0500 Bahijas-MacBook-Pro.local (2484)] INFO : Doing deferred dependency-detection before Rack startup
+[12/26/14 10:22:36 -0500 Bahijas-MacBook-Pro.local (2484)] ERROR : Unknown license key
+[12/26/14 10:22:36 -0500 Bahijas-MacBook-Pro.local (2484)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[12/26/14 10:43:18 -0500 Bahijas-MacBook-Pro.local (2484)] INFO : Starting Agent shutdown
+[12/26/14 10:44:12 -0500 Bahijas-MacBook-Pro.local (4258)] INFO : Starting the New Relic agent in "development" environment.
+[12/26/14 10:44:12 -0500 Bahijas-MacBook-Pro.local (4258)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[12/26/14 10:44:12 -0500 Bahijas-MacBook-Pro.local (4258)] WARN : No configuration file found. Working directory = /Users/mohamedamine/Desktop/work/foodinspectors/server
+[12/26/14 10:44:12 -0500 Bahijas-MacBook-Pro.local (4258)] WARN : Looked in these locations (based on defaults): /Users/mohamedamine/Desktop/work/foodinspectors/server/config/newrelic.yml, /Users/mohamedamine/Desktop/work/foodinspectors/server/newrelic.yml, /Users/mohamedamine/Desktop/work/foodinspectors/server/config/newrelic.yml, /Users/mohamedamine/Desktop/work/foodinspectors/server/newrelic.yml, /Users/mohamedamine/.newrelic/newrelic.yml, /Users/mohamedamine/newrelic.yml
+[12/26/14 10:44:12 -0500 Bahijas-MacBook-Pro.local (4258)] INFO : Environment: development
+[12/26/14 10:44:12 -0500 Bahijas-MacBook-Pro.local (4258)] INFO : Dispatcher: webrick
+[12/26/14 10:44:12 -0500 Bahijas-MacBook-Pro.local (4258)] INFO : Application: development
+[12/26/14 10:44:12 -0500 Bahijas-MacBook-Pro.local (4258)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[12/26/14 10:44:12 -0500 Bahijas-MacBook-Pro.local (4258)] INFO : Installing ActiveRecord 4 instrumentation
+[12/26/14 10:44:12 -0500 Bahijas-MacBook-Pro.local (4258)] INFO : Installing Net instrumentation
+[12/26/14 10:44:12 -0500 Bahijas-MacBook-Pro.local (4258)] INFO : Installing deferred Rack instrumentation
+[12/26/14 10:44:12 -0500 Bahijas-MacBook-Pro.local (4258)] INFO : Installing Rack::Builder middleware instrumentation
+[12/26/14 10:44:12 -0500 Bahijas-MacBook-Pro.local (4258)] INFO : Installing Rails 3+ middleware instrumentation
+[12/26/14 10:44:12 -0500 Bahijas-MacBook-Pro.local (4258)] INFO : Installing Rails 4 Controller instrumentation
+[12/26/14 10:44:12 -0500 Bahijas-MacBook-Pro.local (4258)] INFO : Installing Rails 4 view instrumentation
+[12/26/14 10:44:12 -0500 Bahijas-MacBook-Pro.local (4258)] INFO : Installing Rails 4 Error instrumentation
+[12/26/14 10:44:12 -0500 Bahijas-MacBook-Pro.local (4258)] INFO : Finished instrumentation
+[12/26/14 10:44:14 -0500 Bahijas-MacBook-Pro.local (4258)] INFO : Doing deferred dependency-detection before Rack startup
+[01/18/15 10:16:29 -0500 Bahijas-MacBook-Pro.local (15602)] INFO : Starting the New Relic agent in "development" environment.
+[01/18/15 10:16:29 -0500 Bahijas-MacBook-Pro.local (15602)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[01/18/15 10:16:29 -0500 Bahijas-MacBook-Pro.local (15602)] WARN : No configuration file found. Working directory = /Users/mohamedamine/Desktop/work/foodinspectors/server
+[01/18/15 10:16:29 -0500 Bahijas-MacBook-Pro.local (15602)] WARN : Looked in these locations (based on defaults): /Users/mohamedamine/Desktop/work/foodinspectors/server/config/newrelic.yml, /Users/mohamedamine/Desktop/work/foodinspectors/server/newrelic.yml, /Users/mohamedamine/Desktop/work/foodinspectors/server/config/newrelic.yml, /Users/mohamedamine/Desktop/work/foodinspectors/server/newrelic.yml, /Users/mohamedamine/.newrelic/newrelic.yml, /Users/mohamedamine/newrelic.yml
+[01/18/15 10:16:29 -0500 Bahijas-MacBook-Pro.local (15602)] INFO : Environment: development
+[01/18/15 10:16:29 -0500 Bahijas-MacBook-Pro.local (15602)] INFO : Dispatcher: webrick
+[01/18/15 10:16:29 -0500 Bahijas-MacBook-Pro.local (15602)] INFO : Application: development
+[01/18/15 10:16:29 -0500 Bahijas-MacBook-Pro.local (15602)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[01/18/15 10:16:29 -0500 Bahijas-MacBook-Pro.local (15602)] INFO : Installing ActiveJob instrumentation
+[01/18/15 10:16:29 -0500 Bahijas-MacBook-Pro.local (15602)] INFO : Installing ActiveRecord 4 instrumentation
+[01/18/15 10:16:29 -0500 Bahijas-MacBook-Pro.local (15602)] INFO : Installing Net instrumentation
+[01/18/15 10:16:29 -0500 Bahijas-MacBook-Pro.local (15602)] INFO : Installing deferred Rack instrumentation
+[01/18/15 10:16:29 -0500 Bahijas-MacBook-Pro.local (15602)] INFO : Installing Rack::Builder middleware instrumentation
+[01/18/15 10:16:29 -0500 Bahijas-MacBook-Pro.local (15602)] INFO : Installing Rails 3+ middleware instrumentation
+[01/18/15 10:16:29 -0500 Bahijas-MacBook-Pro.local (15602)] INFO : Installing Rails 4 Controller instrumentation
+[01/18/15 10:16:29 -0500 Bahijas-MacBook-Pro.local (15602)] INFO : Installing Rails 4 view instrumentation
+[01/18/15 10:16:29 -0500 Bahijas-MacBook-Pro.local (15602)] INFO : Installing Rails 4 Error instrumentation
+[01/18/15 10:16:29 -0500 Bahijas-MacBook-Pro.local (15602)] INFO : Finished instrumentation
+[01/18/15 10:16:30 -0500 Bahijas-MacBook-Pro.local (15602)] INFO : Doing deferred dependency-detection before Rack startup
+[01/18/15 10:19:37 -0500 Bahijas-MacBook-Pro.local (15602)] ERROR : Unknown license key
+[01/18/15 10:19:37 -0500 Bahijas-MacBook-Pro.local (15602)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[01/19/15 07:11:36 -0500 Bahijas-MacBook-Pro.local (15602)] INFO : Starting Agent shutdown
+[02/08/15 09:32:56 -0500 Bahijas-MacBook-Pro.local (12406)] INFO : Starting the New Relic agent in "development" environment.
+[02/08/15 09:32:56 -0500 Bahijas-MacBook-Pro.local (12406)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[02/08/15 09:32:56 -0500 Bahijas-MacBook-Pro.local (12406)] WARN : No configuration file found. Working directory = /Users/mohamedamine/Desktop/work/foodinspectors/server
+[02/08/15 09:32:56 -0500 Bahijas-MacBook-Pro.local (12406)] WARN : Looked in these locations (based on defaults): /Users/mohamedamine/Desktop/work/foodinspectors/server/config/newrelic.yml, /Users/mohamedamine/Desktop/work/foodinspectors/server/newrelic.yml, /Users/mohamedamine/Desktop/work/foodinspectors/server/config/newrelic.yml, /Users/mohamedamine/Desktop/work/foodinspectors/server/newrelic.yml, /Users/mohamedamine/.newrelic/newrelic.yml, /Users/mohamedamine/newrelic.yml
+[02/08/15 09:32:56 -0500 Bahijas-MacBook-Pro.local (12406)] INFO : Environment: development
+[02/08/15 09:32:56 -0500 Bahijas-MacBook-Pro.local (12406)] INFO : Dispatcher: webrick
+[02/08/15 09:32:56 -0500 Bahijas-MacBook-Pro.local (12406)] INFO : Application: development
+[02/08/15 09:32:56 -0500 Bahijas-MacBook-Pro.local (12406)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[02/08/15 09:32:56 -0500 Bahijas-MacBook-Pro.local (12406)] INFO : Installing ActiveRecord 4 instrumentation
+[02/08/15 09:32:56 -0500 Bahijas-MacBook-Pro.local (12406)] INFO : Installing Net instrumentation
+[02/08/15 09:32:56 -0500 Bahijas-MacBook-Pro.local (12406)] INFO : Installing deferred Rack instrumentation
+[02/08/15 09:32:56 -0500 Bahijas-MacBook-Pro.local (12406)] INFO : Installing Rack::Builder middleware instrumentation
+[02/08/15 09:32:56 -0500 Bahijas-MacBook-Pro.local (12406)] INFO : Installing Rails 3+ middleware instrumentation
+[02/08/15 09:32:56 -0500 Bahijas-MacBook-Pro.local (12406)] INFO : Installing Rails 4 Controller instrumentation
+[02/08/15 09:32:56 -0500 Bahijas-MacBook-Pro.local (12406)] INFO : Installing Rails 4 view instrumentation
+[02/08/15 09:32:56 -0500 Bahijas-MacBook-Pro.local (12406)] INFO : Installing Rails 4 Error instrumentation
+[02/08/15 09:32:56 -0500 Bahijas-MacBook-Pro.local (12406)] INFO : Finished instrumentation
+[02/08/15 09:33:01 -0500 Bahijas-MacBook-Pro.local (12406)] INFO : Doing deferred dependency-detection before Rack startup
+[02/08/15 09:38:37 -0500 Bahijas-MacBook-Pro.local (12406)] ERROR : Invalid license key, please contact support@newrelic.com
+[02/08/15 09:38:37 -0500 Bahijas-MacBook-Pro.local (12406)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[02/08/15 09:41:16 -0500 Bahijas-MacBook-Pro.local (12406)] INFO : Starting Agent shutdown
+[02/08/15 09:41:48 -0500 Bahijas-MacBook-Pro.local (13176)] INFO : Starting the New Relic agent in "development" environment.
+[02/08/15 09:41:48 -0500 Bahijas-MacBook-Pro.local (13176)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[02/08/15 09:41:48 -0500 Bahijas-MacBook-Pro.local (13176)] WARN : No configuration file found. Working directory = /Users/mohamedamine/Desktop/work/foodinspectors/server
+[02/08/15 09:41:48 -0500 Bahijas-MacBook-Pro.local (13176)] WARN : Looked in these locations (based on defaults): /Users/mohamedamine/Desktop/work/foodinspectors/server/config/newrelic.yml, /Users/mohamedamine/Desktop/work/foodinspectors/server/newrelic.yml, /Users/mohamedamine/Desktop/work/foodinspectors/server/config/newrelic.yml, /Users/mohamedamine/Desktop/work/foodinspectors/server/newrelic.yml, /Users/mohamedamine/.newrelic/newrelic.yml, /Users/mohamedamine/newrelic.yml
+[02/08/15 09:41:48 -0500 Bahijas-MacBook-Pro.local (13176)] INFO : Environment: development
+[02/08/15 09:41:48 -0500 Bahijas-MacBook-Pro.local (13176)] INFO : No known dispatcher detected.
+[02/08/15 09:41:48 -0500 Bahijas-MacBook-Pro.local (13176)] INFO : Application: development
+[02/08/15 09:41:48 -0500 Bahijas-MacBook-Pro.local (13176)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[02/08/15 09:41:48 -0500 Bahijas-MacBook-Pro.local (13176)] INFO : Installing ActiveRecord 4 instrumentation
+[02/08/15 09:41:48 -0500 Bahijas-MacBook-Pro.local (13176)] INFO : Installing Net instrumentation
+[02/08/15 09:41:48 -0500 Bahijas-MacBook-Pro.local (13176)] INFO : Installing deferred Rack instrumentation
+[02/08/15 09:41:48 -0500 Bahijas-MacBook-Pro.local (13176)] INFO : Installing Rack::Builder middleware instrumentation
+[02/08/15 09:41:48 -0500 Bahijas-MacBook-Pro.local (13176)] INFO : Installing Rails 3+ middleware instrumentation
+[02/08/15 09:41:48 -0500 Bahijas-MacBook-Pro.local (13176)] INFO : Installing Rails 4 Controller instrumentation
+[02/08/15 09:41:48 -0500 Bahijas-MacBook-Pro.local (13176)] INFO : Installing Rails 4 view instrumentation
+[02/08/15 09:41:48 -0500 Bahijas-MacBook-Pro.local (13176)] INFO : Installing Rails 4 Error instrumentation
+[02/08/15 09:41:48 -0500 Bahijas-MacBook-Pro.local (13176)] INFO : Finished instrumentation
+[02/08/15 09:42:13 -0500 Bahijas-MacBook-Pro.local (13218)] INFO : Starting the New Relic agent in "development" environment.
+[02/08/15 09:42:13 -0500 Bahijas-MacBook-Pro.local (13218)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[02/08/15 09:42:13 -0500 Bahijas-MacBook-Pro.local (13218)] WARN : No configuration file found. Working directory = /Users/mohamedamine/Desktop/work/foodinspectors/server
+[02/08/15 09:42:13 -0500 Bahijas-MacBook-Pro.local (13218)] WARN : Looked in these locations (based on defaults): /Users/mohamedamine/Desktop/work/foodinspectors/server/config/newrelic.yml, /Users/mohamedamine/Desktop/work/foodinspectors/server/newrelic.yml, /Users/mohamedamine/Desktop/work/foodinspectors/server/config/newrelic.yml, /Users/mohamedamine/Desktop/work/foodinspectors/server/newrelic.yml, /Users/mohamedamine/.newrelic/newrelic.yml, /Users/mohamedamine/newrelic.yml
+[02/08/15 09:42:13 -0500 Bahijas-MacBook-Pro.local (13218)] INFO : Environment: development
+[02/08/15 09:42:13 -0500 Bahijas-MacBook-Pro.local (13218)] INFO : Dispatcher: webrick
+[02/08/15 09:42:13 -0500 Bahijas-MacBook-Pro.local (13218)] INFO : Application: development
+[02/08/15 09:42:13 -0500 Bahijas-MacBook-Pro.local (13218)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[02/08/15 09:42:13 -0500 Bahijas-MacBook-Pro.local (13218)] INFO : Installing ActiveRecord 4 instrumentation
+[02/08/15 09:42:13 -0500 Bahijas-MacBook-Pro.local (13218)] INFO : Installing Net instrumentation
+[02/08/15 09:42:13 -0500 Bahijas-MacBook-Pro.local (13218)] INFO : Installing deferred Rack instrumentation
+[02/08/15 09:42:13 -0500 Bahijas-MacBook-Pro.local (13218)] INFO : Installing Rack::Builder middleware instrumentation
+[02/08/15 09:42:13 -0500 Bahijas-MacBook-Pro.local (13218)] INFO : Installing Rails 3+ middleware instrumentation
+[02/08/15 09:42:13 -0500 Bahijas-MacBook-Pro.local (13218)] INFO : Installing Rails 4 Controller instrumentation
+[02/08/15 09:42:13 -0500 Bahijas-MacBook-Pro.local (13218)] INFO : Installing Rails 4 view instrumentation
+[02/08/15 09:42:13 -0500 Bahijas-MacBook-Pro.local (13218)] INFO : Installing Rails 4 Error instrumentation
+[02/08/15 09:42:13 -0500 Bahijas-MacBook-Pro.local (13218)] INFO : Finished instrumentation
+[02/08/15 09:42:14 -0500 Bahijas-MacBook-Pro.local (13218)] INFO : Doing deferred dependency-detection before Rack startup
+[02/08/15 09:43:33 -0500 Bahijas-MacBook-Pro.local (13218)] ERROR : Invalid license key, please contact support@newrelic.com
+[02/08/15 09:43:33 -0500 Bahijas-MacBook-Pro.local (13218)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[02/08/15 09:43:47 -0500 Bahijas-MacBook-Pro.local (13218)] INFO : Starting Agent shutdown
+[02/08/15 09:44:58 -0500 Bahijas-MacBook-Pro.local (13466)] INFO : Starting the New Relic agent in "development" environment.
+[02/08/15 09:44:58 -0500 Bahijas-MacBook-Pro.local (13466)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[02/08/15 09:44:58 -0500 Bahijas-MacBook-Pro.local (13466)] WARN : No configuration file found. Working directory = /Users/mohamedamine/Desktop/work/foodinspectors/server
+[02/08/15 09:44:58 -0500 Bahijas-MacBook-Pro.local (13466)] WARN : Looked in these locations (based on defaults): /Users/mohamedamine/Desktop/work/foodinspectors/server/config/newrelic.yml, /Users/mohamedamine/Desktop/work/foodinspectors/server/newrelic.yml, /Users/mohamedamine/Desktop/work/foodinspectors/server/config/newrelic.yml, /Users/mohamedamine/Desktop/work/foodinspectors/server/newrelic.yml, /Users/mohamedamine/.newrelic/newrelic.yml, /Users/mohamedamine/newrelic.yml
+[02/08/15 09:44:58 -0500 Bahijas-MacBook-Pro.local (13466)] INFO : Environment: development
+[02/08/15 09:44:58 -0500 Bahijas-MacBook-Pro.local (13466)] INFO : Dispatcher: webrick
+[02/08/15 09:44:58 -0500 Bahijas-MacBook-Pro.local (13466)] INFO : Application: development
+[02/08/15 09:44:58 -0500 Bahijas-MacBook-Pro.local (13466)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[02/08/15 09:44:58 -0500 Bahijas-MacBook-Pro.local (13466)] INFO : Installing ActiveRecord 4 instrumentation
+[02/08/15 09:44:58 -0500 Bahijas-MacBook-Pro.local (13466)] INFO : Installing Net instrumentation
+[02/08/15 09:44:58 -0500 Bahijas-MacBook-Pro.local (13466)] INFO : Installing deferred Rack instrumentation
+[02/08/15 09:44:58 -0500 Bahijas-MacBook-Pro.local (13466)] INFO : Installing Rack::Builder middleware instrumentation
+[02/08/15 09:44:58 -0500 Bahijas-MacBook-Pro.local (13466)] INFO : Installing Rails 3+ middleware instrumentation
+[02/08/15 09:44:58 -0500 Bahijas-MacBook-Pro.local (13466)] INFO : Installing Rails 4 Controller instrumentation
+[02/08/15 09:44:58 -0500 Bahijas-MacBook-Pro.local (13466)] INFO : Installing Rails 4 view instrumentation
+[02/08/15 09:44:58 -0500 Bahijas-MacBook-Pro.local (13466)] INFO : Installing Rails 4 Error instrumentation
+[02/08/15 09:44:58 -0500 Bahijas-MacBook-Pro.local (13466)] INFO : Finished instrumentation
+[02/08/15 09:45:00 -0500 Bahijas-MacBook-Pro.local (13466)] INFO : Doing deferred dependency-detection before Rack startup
+[02/08/15 09:45:39 -0500 Bahijas-MacBook-Pro.local (13466)] ERROR : Invalid license key, please contact support@newrelic.com
+[02/08/15 09:45:39 -0500 Bahijas-MacBook-Pro.local (13466)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[02/08/15 09:48:23 -0500 Bahijas-MacBook-Pro.local (13466)] INFO : Starting Agent shutdown
+[02/08/15 09:49:09 -0500 Bahijas-MacBook-Pro.local (14044)] INFO : Starting the New Relic agent in "development" environment.
+[02/08/15 09:49:09 -0500 Bahijas-MacBook-Pro.local (14044)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[02/08/15 09:49:09 -0500 Bahijas-MacBook-Pro.local (14044)] WARN : No configuration file found. Working directory = /Users/mohamedamine/Desktop/work/foodinspectors/server
+[02/08/15 09:49:09 -0500 Bahijas-MacBook-Pro.local (14044)] WARN : Looked in these locations (based on defaults): /Users/mohamedamine/Desktop/work/foodinspectors/server/config/newrelic.yml, /Users/mohamedamine/Desktop/work/foodinspectors/server/newrelic.yml, /Users/mohamedamine/Desktop/work/foodinspectors/server/config/newrelic.yml, /Users/mohamedamine/Desktop/work/foodinspectors/server/newrelic.yml, /Users/mohamedamine/.newrelic/newrelic.yml, /Users/mohamedamine/newrelic.yml
+[02/08/15 09:49:09 -0500 Bahijas-MacBook-Pro.local (14044)] INFO : Environment: development
+[02/08/15 09:49:09 -0500 Bahijas-MacBook-Pro.local (14044)] INFO : Dispatcher: webrick
+[02/08/15 09:49:09 -0500 Bahijas-MacBook-Pro.local (14044)] INFO : Application: development
+[02/08/15 09:49:09 -0500 Bahijas-MacBook-Pro.local (14044)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[02/08/15 09:49:09 -0500 Bahijas-MacBook-Pro.local (14044)] INFO : Installing ActiveRecord 4 instrumentation
+[02/08/15 09:49:09 -0500 Bahijas-MacBook-Pro.local (14044)] INFO : Installing Net instrumentation
+[02/08/15 09:49:09 -0500 Bahijas-MacBook-Pro.local (14044)] INFO : Installing deferred Rack instrumentation
+[02/08/15 09:49:09 -0500 Bahijas-MacBook-Pro.local (14044)] INFO : Installing Rack::Builder middleware instrumentation
+[02/08/15 09:49:09 -0500 Bahijas-MacBook-Pro.local (14044)] INFO : Installing Rails 3+ middleware instrumentation
+[02/08/15 09:49:09 -0500 Bahijas-MacBook-Pro.local (14044)] INFO : Installing Rails 4 Controller instrumentation
+[02/08/15 09:49:09 -0500 Bahijas-MacBook-Pro.local (14044)] INFO : Installing Rails 4 view instrumentation
+[02/08/15 09:49:09 -0500 Bahijas-MacBook-Pro.local (14044)] INFO : Installing Rails 4 Error instrumentation
+[02/08/15 09:49:09 -0500 Bahijas-MacBook-Pro.local (14044)] INFO : Finished instrumentation
+[02/08/15 09:49:10 -0500 Bahijas-MacBook-Pro.local (14044)] INFO : Doing deferred dependency-detection before Rack startup
+[02/08/15 09:49:19 -0500 Bahijas-MacBook-Pro.local (14044)] ERROR : Invalid license key, please contact support@newrelic.com
+[02/08/15 09:49:19 -0500 Bahijas-MacBook-Pro.local (14044)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[02/08/15 09:50:58 -0500 Bahijas-MacBook-Pro.local (14044)] INFO : Starting Agent shutdown
+[02/08/15 09:53:12 -0500 Bahijas-MacBook-Pro.local (14403)] INFO : Starting the New Relic agent in "development" environment.
+[02/08/15 09:53:12 -0500 Bahijas-MacBook-Pro.local (14403)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[02/08/15 09:53:12 -0500 Bahijas-MacBook-Pro.local (14403)] WARN : No configuration file found. Working directory = /Users/mohamedamine/Desktop/work/foodinspectors/server
+[02/08/15 09:53:12 -0500 Bahijas-MacBook-Pro.local (14403)] WARN : Looked in these locations (based on defaults): /Users/mohamedamine/Desktop/work/foodinspectors/server/config/newrelic.yml, /Users/mohamedamine/Desktop/work/foodinspectors/server/newrelic.yml, /Users/mohamedamine/Desktop/work/foodinspectors/server/config/newrelic.yml, /Users/mohamedamine/Desktop/work/foodinspectors/server/newrelic.yml, /Users/mohamedamine/.newrelic/newrelic.yml, /Users/mohamedamine/newrelic.yml
+[02/08/15 09:53:12 -0500 Bahijas-MacBook-Pro.local (14403)] INFO : Environment: development
+[02/08/15 09:53:12 -0500 Bahijas-MacBook-Pro.local (14403)] INFO : No known dispatcher detected.
+[02/08/15 09:53:12 -0500 Bahijas-MacBook-Pro.local (14403)] INFO : Application: development
+[02/08/15 09:53:12 -0500 Bahijas-MacBook-Pro.local (14403)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[02/08/15 09:53:13 -0500 Bahijas-MacBook-Pro.local (14403)] INFO : Installing ActiveRecord 4 instrumentation
+[02/08/15 09:53:13 -0500 Bahijas-MacBook-Pro.local (14403)] INFO : Installing Net instrumentation
+[02/08/15 09:53:13 -0500 Bahijas-MacBook-Pro.local (14403)] INFO : Installing deferred Rack instrumentation
+[02/08/15 09:53:13 -0500 Bahijas-MacBook-Pro.local (14403)] INFO : Installing Rack::Builder middleware instrumentation
+[02/08/15 09:53:13 -0500 Bahijas-MacBook-Pro.local (14403)] INFO : Installing Rails 3+ middleware instrumentation
+[02/08/15 09:53:13 -0500 Bahijas-MacBook-Pro.local (14403)] INFO : Installing Rails 4 Controller instrumentation
+[02/08/15 09:53:13 -0500 Bahijas-MacBook-Pro.local (14403)] INFO : Installing Rails 4 view instrumentation
+[02/08/15 09:53:13 -0500 Bahijas-MacBook-Pro.local (14403)] INFO : Installing Rails 4 Error instrumentation
+[02/08/15 09:53:13 -0500 Bahijas-MacBook-Pro.local (14403)] INFO : Finished instrumentation
+[02/08/15 09:54:22 -0500 Bahijas-MacBook-Pro.local (14501)] INFO : Starting the New Relic agent in "development" environment.
+[02/08/15 09:54:22 -0500 Bahijas-MacBook-Pro.local (14501)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[02/08/15 09:54:22 -0500 Bahijas-MacBook-Pro.local (14501)] WARN : No configuration file found. Working directory = /Users/mohamedamine/Desktop/work/foodinspectors/server
+[02/08/15 09:54:22 -0500 Bahijas-MacBook-Pro.local (14501)] WARN : Looked in these locations (based on defaults): /Users/mohamedamine/Desktop/work/foodinspectors/server/config/newrelic.yml, /Users/mohamedamine/Desktop/work/foodinspectors/server/newrelic.yml, /Users/mohamedamine/Desktop/work/foodinspectors/server/config/newrelic.yml, /Users/mohamedamine/Desktop/work/foodinspectors/server/newrelic.yml, /Users/mohamedamine/.newrelic/newrelic.yml, /Users/mohamedamine/newrelic.yml
+[02/08/15 09:54:22 -0500 Bahijas-MacBook-Pro.local (14501)] INFO : Environment: development
+[02/08/15 09:54:22 -0500 Bahijas-MacBook-Pro.local (14501)] INFO : Dispatcher: webrick
+[02/08/15 09:54:22 -0500 Bahijas-MacBook-Pro.local (14501)] INFO : Application: development
+[02/08/15 09:54:22 -0500 Bahijas-MacBook-Pro.local (14501)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[02/08/15 09:54:23 -0500 Bahijas-MacBook-Pro.local (14501)] INFO : Installing ActiveRecord 4 instrumentation
+[02/08/15 09:54:23 -0500 Bahijas-MacBook-Pro.local (14501)] INFO : Installing Net instrumentation
+[02/08/15 09:54:23 -0500 Bahijas-MacBook-Pro.local (14501)] INFO : Installing deferred Rack instrumentation
+[02/08/15 09:54:23 -0500 Bahijas-MacBook-Pro.local (14501)] INFO : Installing Rack::Builder middleware instrumentation
+[02/08/15 09:54:23 -0500 Bahijas-MacBook-Pro.local (14501)] INFO : Installing Rails 3+ middleware instrumentation
+[02/08/15 09:54:23 -0500 Bahijas-MacBook-Pro.local (14501)] INFO : Installing Rails 4 Controller instrumentation
+[02/08/15 09:54:23 -0500 Bahijas-MacBook-Pro.local (14501)] INFO : Installing Rails 4 view instrumentation
+[02/08/15 09:54:23 -0500 Bahijas-MacBook-Pro.local (14501)] INFO : Installing Rails 4 Error instrumentation
+[02/08/15 09:54:23 -0500 Bahijas-MacBook-Pro.local (14501)] INFO : Finished instrumentation
+[02/08/15 09:54:24 -0500 Bahijas-MacBook-Pro.local (14501)] INFO : Doing deferred dependency-detection before Rack startup
+[02/08/15 09:54:30 -0500 Bahijas-MacBook-Pro.local (14501)] ERROR : Invalid license key, please contact support@newrelic.com
+[02/08/15 09:54:30 -0500 Bahijas-MacBook-Pro.local (14501)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[02/09/15 10:52:21 -0500 Bahijas-MacBook-Pro.local (14501)] INFO : Starting Agent shutdown
+[02/19/15 07:28:35 -0500 Bahijas-MacBook-Pro.local (2166)] INFO : Starting the New Relic agent in "development" environment.
+[02/19/15 07:28:35 -0500 Bahijas-MacBook-Pro.local (2166)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[02/19/15 07:28:35 -0500 Bahijas-MacBook-Pro.local (2166)] WARN : No configuration file found. Working directory = /Users/mohamedamine/Desktop/work/fi_api
+[02/19/15 07:28:35 -0500 Bahijas-MacBook-Pro.local (2166)] WARN : Looked in these locations (based on defaults): /Users/mohamedamine/Desktop/work/fi_api/config/newrelic.yml, /Users/mohamedamine/Desktop/work/fi_api/newrelic.yml, /Users/mohamedamine/Desktop/work/fi_api/config/newrelic.yml, /Users/mohamedamine/Desktop/work/fi_api/newrelic.yml, /Users/mohamedamine/.newrelic/newrelic.yml, /Users/mohamedamine/newrelic.yml
+[02/19/15 07:28:35 -0500 Bahijas-MacBook-Pro.local (2166)] INFO : Environment: development
+[02/19/15 07:28:35 -0500 Bahijas-MacBook-Pro.local (2166)] INFO : Dispatcher: webrick
+[02/19/15 07:28:35 -0500 Bahijas-MacBook-Pro.local (2166)] INFO : Application: development
+[02/19/15 07:28:35 -0500 Bahijas-MacBook-Pro.local (2166)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[02/19/15 07:28:35 -0500 Bahijas-MacBook-Pro.local (2166)] INFO : Installing ActiveJob instrumentation
+[02/19/15 07:28:35 -0500 Bahijas-MacBook-Pro.local (2166)] INFO : Installing ActiveRecord 4 instrumentation
+[02/19/15 07:28:35 -0500 Bahijas-MacBook-Pro.local (2166)] INFO : Installing Net instrumentation
+[02/19/15 07:28:35 -0500 Bahijas-MacBook-Pro.local (2166)] INFO : Installing deferred Rack instrumentation
+[02/19/15 07:28:35 -0500 Bahijas-MacBook-Pro.local (2166)] INFO : Installing Rack::Builder middleware instrumentation
+[02/19/15 07:28:35 -0500 Bahijas-MacBook-Pro.local (2166)] INFO : Installing Rails 3+ middleware instrumentation
+[02/19/15 07:28:35 -0500 Bahijas-MacBook-Pro.local (2166)] INFO : Installing Rails 4 Controller instrumentation
+[02/19/15 07:28:35 -0500 Bahijas-MacBook-Pro.local (2166)] INFO : Installing Rails 4 view instrumentation
+[02/19/15 07:28:35 -0500 Bahijas-MacBook-Pro.local (2166)] INFO : Installing Rails 4 Error instrumentation
+[02/19/15 07:28:35 -0500 Bahijas-MacBook-Pro.local (2166)] INFO : Finished instrumentation
+[02/19/15 07:28:37 -0500 Bahijas-MacBook-Pro.local (2166)] INFO : Doing deferred dependency-detection before Rack startup
+[02/19/15 07:28:54 -0500 Bahijas-MacBook-Pro.local (2166)] ERROR : Invalid license key, please contact support@newrelic.com
+[02/19/15 07:28:54 -0500 Bahijas-MacBook-Pro.local (2166)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[02/19/15 07:38:54 -0500 Bahijas-MacBook-Pro.local (2166)] INFO : Starting Agent shutdown
+[02/19/15 07:40:12 -0500 Bahijas-MacBook-Pro.local (2603)] INFO : Starting the New Relic agent in "development" environment.
+[02/19/15 07:40:12 -0500 Bahijas-MacBook-Pro.local (2603)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[02/19/15 07:40:12 -0500 Bahijas-MacBook-Pro.local (2603)] WARN : No configuration file found. Working directory = /Users/mohamedamine/Desktop/work/fi_api
+[02/19/15 07:40:12 -0500 Bahijas-MacBook-Pro.local (2603)] WARN : Looked in these locations (based on defaults): /Users/mohamedamine/Desktop/work/fi_api/config/newrelic.yml, /Users/mohamedamine/Desktop/work/fi_api/newrelic.yml, /Users/mohamedamine/Desktop/work/fi_api/config/newrelic.yml, /Users/mohamedamine/Desktop/work/fi_api/newrelic.yml, /Users/mohamedamine/.newrelic/newrelic.yml, /Users/mohamedamine/newrelic.yml
+[02/19/15 07:40:12 -0500 Bahijas-MacBook-Pro.local (2603)] INFO : Environment: development
+[02/19/15 07:40:12 -0500 Bahijas-MacBook-Pro.local (2603)] INFO : Dispatcher: webrick
+[02/19/15 07:40:12 -0500 Bahijas-MacBook-Pro.local (2603)] INFO : Application: development
+[02/19/15 07:40:12 -0500 Bahijas-MacBook-Pro.local (2603)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[02/19/15 07:40:12 -0500 Bahijas-MacBook-Pro.local (2603)] INFO : Installing ActiveJob instrumentation
+[02/19/15 07:40:12 -0500 Bahijas-MacBook-Pro.local (2603)] INFO : Installing ActiveRecord 4 instrumentation
+[02/19/15 07:40:12 -0500 Bahijas-MacBook-Pro.local (2603)] INFO : Installing Net instrumentation
+[02/19/15 07:40:12 -0500 Bahijas-MacBook-Pro.local (2603)] INFO : Installing deferred Rack instrumentation
+[02/19/15 07:40:12 -0500 Bahijas-MacBook-Pro.local (2603)] INFO : Installing Rack::Builder middleware instrumentation
+[02/19/15 07:40:12 -0500 Bahijas-MacBook-Pro.local (2603)] INFO : Installing Rails 3+ middleware instrumentation
+[02/19/15 07:40:12 -0500 Bahijas-MacBook-Pro.local (2603)] INFO : Installing Rails 4 Controller instrumentation
+[02/19/15 07:40:12 -0500 Bahijas-MacBook-Pro.local (2603)] INFO : Installing Rails 4 view instrumentation
+[02/19/15 07:40:12 -0500 Bahijas-MacBook-Pro.local (2603)] INFO : Installing Rails 4 Error instrumentation
+[02/19/15 07:40:12 -0500 Bahijas-MacBook-Pro.local (2603)] INFO : Finished instrumentation
+[02/19/15 07:40:13 -0500 Bahijas-MacBook-Pro.local (2603)] INFO : Doing deferred dependency-detection before Rack startup
+[02/19/15 07:40:17 -0500 Bahijas-MacBook-Pro.local (2603)] ERROR : Invalid license key, please contact support@newrelic.com
+[02/19/15 07:40:17 -0500 Bahijas-MacBook-Pro.local (2603)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[02/19/15 07:51:24 -0500 Bahijas-MacBook-Pro.local (2603)] INFO : Starting Agent shutdown

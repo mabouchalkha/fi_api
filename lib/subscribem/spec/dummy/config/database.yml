@@ -1,0 +1,9 @@
+development:
+  adapter: postgresql
+  database: subscribem_development 
+  min_messages: warning
+
+test:
+  adapter: postgresql
+  database: subscribem_test 
+  min_messages: warning
