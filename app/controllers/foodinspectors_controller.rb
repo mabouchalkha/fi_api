@@ -1,8 +1,5 @@
 class FoodinspectorsController < ApplicationController
   def index
-     render status: :ok,
-        json: {
-          "API Food Inspectors (App)"
-        }
+    render :json => '{API: "Food Inspectors app"}'
   end
 end
